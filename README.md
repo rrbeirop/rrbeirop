@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Developer
 
-<img src="./assets/vk.png" width="850" alt="Vitor Ribeiro Banner"/>
+<img src="./vk.png" width="850"/>
 
 <br>
 
