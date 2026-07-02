@@ -4,8 +4,6 @@
 
 ### 🚀 Full Stack Developer
 
-<img src="./vk.png" width="850"/>
-
 <br>
 
 <p>
